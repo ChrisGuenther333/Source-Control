@@ -1,0 +1,41 @@
+commit 07963c5e578b36ed351866891d920a1be20c3561
+Author: ChrisGuenther333 <CHRIS.GUENTHER4328@STU.MTEC.EDU>
+Date:   Thu Jan 11 10:08:41 2024 -0700
+
+    css should work now
+
+commit 47fab1e572b7581a317bc1f1c2310bb60242cf86
+Author: ChrisGuenther333 <CHRIS.GUENTHER4328@STU.MTEC.EDU>
+Date:   Thu Jan 11 10:04:06 2024 -0700
+
+    updated html and css files
+
+commit 9cde482783d76d388feb3f3856ce1caeb197b2a6
+Author: ChrisGuenther333 <CHRIS.GUENTHER4328@STU.MTEC.EDU>
+Date:   Thu Jan 11 10:02:25 2024 -0700
+
+    updated html and css
+
+commit 18b075ece0bacd41afd78863872ab3c83f33b0db
+Author: ChrisGuenther333 <CHRIS.GUENTHER4328@STU.MTEC.EDU>
+Date:   Thu Jan 11 09:57:22 2024 -0700
+
+    added style file
+
+commit faa31706beb1982e00324914feb9e3f51ca87b18
+Author: ChrisGuenther333 <CHRIS.GUENTHER4328@STU.MTEC.EDU>
+Date:   Thu Jan 11 09:56:59 2024 -0700
+
+    added index
+
+commit 504402e0e8fd621930941654bbf53e34b0e9b010
+Author: ChrisGuenther333 <CHRIS.GUENTHER4328@STU.MTEC.EDU>
+Date:   Thu Jan 11 09:56:17 2024 -0700
+
+    created gitignore and test file
+
+commit 0050deaaffd87482663b7765968153739e173ec5
+Author: ChrisGuenther333 <132960459+ChrisGuenther333@users.noreply.github.com>
+Date:   Thu Jan 11 09:54:40 2024 -0700
+
+    Initial commit
